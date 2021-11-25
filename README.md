@@ -1,24 +1,24 @@
-## sehyeon518.github.io
+# sehyeon518.github.io
 Hello. This is
 
 *sehyeon518.github.io*
 
-# First
+## First
 example
 An example post
 
-# Second
+## Second
 git
 Git and GitHub
 
-# Thrid
+## Thrid
 jekyll
 Jekyll and Ruby
 
-# Fourth
+## Fourth
 markdown
 Markdown
 
-# Fifth
+## Fifth
 html
 HTML
