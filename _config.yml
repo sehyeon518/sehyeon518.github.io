@@ -2,8 +2,8 @@
 title:               Uprising 518
 tagline:             'Gwangju Uprising'
 description:         'Gwanju Uprising 5.18. Let us dial 062-518(Ma City-BTS in Young Forever /PDOGG, BANG, RM, SUGA, j-hope'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 https://sehyeon518.github.io
+#baseurl:             ''
 paginate:            5
 permalink:           pretty
 
