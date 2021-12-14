@@ -4,21 +4,21 @@ Hello. This is
 *sehyeon518.github.io*
 
 ## First
-example
+example  
 An example post
 
 ## Second
-git
+git  
 Git and GitHub
 
 ## Thrid
-jekyll
+jekyll  
 Jekyll and Ruby
 
 ## Fourth
-markdown
+markdown  
 Markdown
 
 ## Fifth
-html
+html  
 HTML
