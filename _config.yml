@@ -1,11 +1,12 @@
 # Setup
-title:               Uprising 518
-tagline:             'Gwangju Uprising'
-description:         'Gwanju Uprising 5.18. Let us dial 062-518(Ma City-BTS in Young Forever /PDOGG, BANG, RM, SUGA, j-hope'
+title:               sehyeon518.github.io
+tagline:             'sw 20213043'
+description:         'sehyeon518.github.io from sehyeon518(github). By sehyeon518'
 url:                 https://sehyeon518.github.io
 #baseurl:             ''
 paginate:            5
 permalink:           pretty
+comments:            true
 
 # About/contact
 author:
