@@ -3,7 +3,8 @@ Hello. This is
 *sehyeon518.github.io*
 
 ## First | example  
-An example post
+An example post  
+이 포스트에서 댓글을 추가할 수 있습니다.
 
 ## Second | git  
 Git and GitHub  
