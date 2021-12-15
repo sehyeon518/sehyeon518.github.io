@@ -4,11 +4,11 @@ Hello. This is
 
 ## First | example  
 An example post  
-이 포스트에서 댓글을 추가할 수 있습니다.
+이 포스트에서 댓글을 남길 수 있습니다.
 
 ## Second | git  
 Git and GitHub  
-Git과 GitHub을 소개하며 sehyeon518.github.io와 어떻게 remote하였는지 소개합니다.
+Git과 GitHub을 소개하며 sehyeon518.github.io에  어떻게 remote하였는지 소개합니다.
 
 ## Thrid | jekyll  
 Jekyll and Ruby  
