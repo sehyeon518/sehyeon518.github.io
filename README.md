@@ -4,7 +4,7 @@ Hello. This is
 
 ## First | example  
 An example post  
-이 포스트에서 댓글을 남길 수 있습니다.
+이 포스트에는 댓글 기능만 구현되어 있습니다. 모든 포스트에서 댓글을 작성할 수 있습니다.
 
 ## Second | git  
 Git and GitHub  
