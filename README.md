@@ -3,22 +3,21 @@ Hello. This is
 
 *sehyeon518.github.io*
 
-## First
-example  
+## First | example  
 An example post
 
-## Second
-git  
-Git and GitHub
+## Second | git  
+Git and GitHub  
+Git과 GitHub을 소개하며 sehyeon518.github.io와 어떻게 remote하였는지 소개합니다.
 
-## Thrid
-jekyll  
-Jekyll and Ruby
+## Thrid | jekyll  
+Jekyll and Ruby  
+Ruby 기반의 Jekyll을 소개하며 sehyeon518.github.io에 어떻게 적용하였는지 소개합니다.
 
-## Fourth
-markdown  
+## Fourth | markdown  
 Markdown
+Markdown을 소개하며 sehyeon518.github.io에 어떤 문법으로 작성하였는지 소개합니다.
 
-## Fifth
-html  
+## Fifth | html  
 HTML
+HTML을 소개하며 sehyeon518.github.io에 어떤 문법으로 작성하였는지 소개합니다.
